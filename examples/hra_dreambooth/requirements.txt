@@ -11,3 +11,4 @@ nb_conda_kernels
 ipykernel
 ipywidgets
 wandb==0.16.1
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
