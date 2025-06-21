@@ -4,3 +4,4 @@ evaluate
 deepspeed
 tqdm
 datasets
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
