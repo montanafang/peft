@@ -23,3 +23,4 @@ nltk
 xformers
 git+https://github.com/huggingface/datatrove.git
 hf_transfer
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
